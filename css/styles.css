@@ -212,7 +212,7 @@ header {
   display: block;
   content: '';
   left: 0;
-  bottom: -1%;
+  bottom: -2px;
   width: 100%;
   height: 4px;
   background-color: var(--hover-color);
